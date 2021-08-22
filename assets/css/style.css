@@ -22,6 +22,7 @@ p {
     font-size: 16px;
 }
 
+/*Set font color to white */
 .header, a, .benefit-lead, .benefit-brand, .benefit-cost, 
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     color: #ffffff;
@@ -55,6 +56,7 @@ HEADER SECTION STYLES
     color: #d9dcd6;
 }
 
+/*Set navigation bar on the right side of web browser */
 .header nav {
     font-size: 20px;
     float: right;
@@ -62,6 +64,7 @@ HEADER SECTION STYLES
     padding-top: 15px;
 }
 
+/*Remove bullet listing and set items inline */
 .header nav ul {
     list-style-type: none;
 }
@@ -92,6 +95,7 @@ SECTION 01 - CONTENT SECTION STYLES
     width: 75%;
 }
 
+/*Setting the horizontal alignment of content*/
 .float-left {
     float: left;
     margin-right: 25px;
