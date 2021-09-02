@@ -15,3 +15,8 @@ Redesigning the structures of the codes on both HTML and CSS files.
 - Date Completed, Uploaded and Reviewed: 22/08/2021.
 
 - Updated page by adding alt attributes to images.
+
+## Related Links:
+
+- GitHub Repository: https://github.com/mckinleyvj/code-refactor
+- GitHub Live URL: https://mckinleyvj.github.io/code-refactor/
