@@ -18,9 +18,9 @@ Redesigning the structures of the codes on both HTML and CSS files.
 - Updated README file with screenshots.
 
 ## Screenshots:
-![image](https://user-images.githubusercontent.com/87624839/132088985-d243d328-7f82-4849-a8d9-195ca4bdc00c.png)
+![image](https://user-images.githubusercontent.com/87624839/132089019-2880a8cc-e110-4c6a-a923-4950c99b469e.png)
 
-![image](https://user-images.githubusercontent.com/87624839/132088988-c2543d60-c127-4485-b7a7-0e7a86e0d91b.png)
+![image](https://user-images.githubusercontent.com/87624839/132089032-0458b84b-b1b9-40c0-9ee4-065612c25fca.png)
 
 ## Related Links:
 
